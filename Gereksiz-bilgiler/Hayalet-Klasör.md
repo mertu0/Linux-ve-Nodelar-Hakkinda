@@ -1,3 +1,7 @@
+
+
+rues
+
 <h1 align="center"> Hayalet Klasör </h1>
 
 > Burada hayalet klasör nasıl oluşturur ve neden kullandığımı anlatıyorum.
